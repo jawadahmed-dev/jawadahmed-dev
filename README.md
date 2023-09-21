@@ -16,7 +16,7 @@
 
  💬 Ask me about **.Net, Angular, Sql, Git ... or anything [here](https://github.com/jawadahmed-dev/jawadahmed-dev/issues)**
 
- ⚡ Fun fact **I don't just watch anime; I speak 'anime-ese' fluently and have a PhD in 'weebology'! 😄📺**
+ ⚡ Fun fact **I don't just watch anime; I have a PhD in 'weebology'! 😄📺**
  
  </div>
 
